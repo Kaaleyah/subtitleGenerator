@@ -8,7 +8,7 @@ This project aims to create subtitles for any video. It uses SpeechSDK of Azure 
 
 # Resource
 
-![WhatsApp Image 2023-05-28 at 17.07.59.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89074e89-def4-4b25-9879-6a96cc36290f/WhatsApp_Image_2023-05-28_at_17.07.59.jpeg)
+![WhatsApp Image 2023-05-28 at 17.07.59.jpeg](resource.jpeg)
 
 # Overview
 
